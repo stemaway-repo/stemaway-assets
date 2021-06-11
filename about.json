@@ -2,6 +2,7 @@
   "name": "STEM-Away Assets",
   "about_url": "https://github.com/stemaway-repo/stemaway-assets",
   "license_url": "https://github.com/stemaway-repo/stemaway-assets/blob/master/LICENSE.txt",
+  "component": true,
   "assets": {
   },
   "color_schemes": {
